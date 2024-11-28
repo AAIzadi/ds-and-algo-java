@@ -6,6 +6,7 @@
 *.zip
 
 .idea/
+.idea
 .vscode/
 *.iml
 *.ipr

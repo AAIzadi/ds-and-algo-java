@@ -1,0 +1,25 @@
+# Java specific files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Build tools
+target/
+build/
+
+# OS-generated files
+.DS_Store
+
+# Log files
+*.log
+
+# Other
+*.bak
